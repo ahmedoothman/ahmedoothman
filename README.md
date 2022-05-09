@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmed Othamn
+- 👋 Hi, I’m Ahmed Othman
 - -> Faculty of Engineering Helwan University , Computer Department
 - 👀 I’m interested in Embedded System and Application Development(Websites, Mobile, Desktop)
 
