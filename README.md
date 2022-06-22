@@ -4,11 +4,14 @@
 <li>Web Developer</li>
 <li>Embedded Software Engineer</li>
 </ul>
-<h3 align="left" style="background-color:#2980b9;color:#ecf0f1;border-radius:5px;">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@othmanghazzawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@othmanghazzawi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmedoothman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmedoothman" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed.othman.ghazzawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmed.othman.ghazzawi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmedoothman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedoothman" height="30" width="40" /></a>
+<a href="https://fb.com/ahmed.othman.ghazzawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.othman.ghazzawi" height="30" width="40" /></a>
+<a href="https://www.behance.net/ahmedoothman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahmedoothman" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@ahmed_othman_gh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ahmed_othman_gh1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ahmedothman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedothman" height="30" width="40" /></a>
 <a href="https://discord.gg/Othman#7342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Othman#7342" height="30" width="40" /></a>
 </p>
 
